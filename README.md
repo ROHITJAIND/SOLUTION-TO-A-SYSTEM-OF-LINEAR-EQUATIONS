@@ -26,4 +26,4 @@ print(soln)
 ## Output:
 ![OUTPUT](./images/output.png)
 ## Result: 
-Thus the solutions for the linear equations are successfully solved using the śpython program.
+Thus the solutions for the linear equations are successfully solved using python program.
